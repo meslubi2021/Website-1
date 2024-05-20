@@ -770,6 +770,13 @@ Opens the Command Palette
 ```
 
 
+### Edit in Notepad
+
+Opens the selected file in Notepad. This action is available for the following file extensions: `.ahk`, `.bat`, and `.cmd`.
+
+**Action name:** `EditInNotepad`
+
+
 ## Layouts
 
 ### Details View
