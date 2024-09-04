@@ -82,12 +82,12 @@
 			"chip": "Themes",
 			"title": "Distinctly personal.",
 			"description": "Have it your way. {FilesName} features a fully customizable user interface, right down to the colors and materials. Try custom themes that are built into {FilesName} or dive right into the docs and create your own.",
-			"grey_blue": "Dark Grey • Light Blue",
-			"grey_green": "Blue Grey • Neon Green",
-			"purple": "Purple",
-			"yellow_white": "Yellow • White",
-			"white_teal": "Cool White • Dark Teal",
-			"sky_blue": "Sky Blue",
+			"grey_blue": "Windows Default",
+			"grey_green": "Seafoam",
+			"purple": "Iris Pastel",
+			"yellow_white": "Yellow Gold",
+			"white_teal": "Light Mint",
+			"sky_blue": "Blue",
 			"select_theme": "Select theme #{index}"
 		}
 	},
