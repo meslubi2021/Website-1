@@ -271,17 +271,44 @@ Copy selected items to the clipboard
 ```
 
 
-### Copy path
+### Copy item path
 
-Copy paths of selected items to the clipboard
+Copy paths of the selected items to the clipboard
 
-**Action name:** `CopyPath`
+**Action name:** `CopyItemPath`
 
 **Default bindings:**
 
 ```json
 "Ctrl+Shift+C"
 ```
+
+
+### Copy item path with quotes
+
+Copy paths of the selected items with quotes to the clipboard
+
+**Action name:** `CopyItemPathWithQuotes`
+
+**Default bindings:**
+
+```json
+"Alt+Ctrl+C"
+```
+
+
+### Copy path
+
+Copy path of the current directory to the clipboard
+
+**Action name:** `CopyPath`
+
+
+### Copy path with quotes
+
+Copy path of the current directory with quotes to the clipboard
+
+**Action name:** `CopyPathWithQuotes`
 
 
 ### Cut item
