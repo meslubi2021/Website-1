@@ -1359,6 +1359,19 @@ Closes other tabs
 **Action name:** `CloseOtherTabsCurrent`
 
 
+### Close all tabs
+
+Closes all tabs including the current tab
+
+**Action name:** `CloseAllTabs`
+
+**Default bindings:**
+
+```json
+"Ctrl+Shift+W"
+```
+
+
 ### Open folder in new pane
 
 Opens selected folder in a new pane
