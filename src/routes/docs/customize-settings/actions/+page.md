@@ -350,6 +350,13 @@ Pastes items from clipboard to the selected folder
 ```
 
 
+### Paste item as shortcut
+
+Pastes items from clipboard to current directory as shortcuts
+
+**Action name:** `PasteItemAsShortcutAction`
+
+
 ### Delete item
 
 Deletes selected items
