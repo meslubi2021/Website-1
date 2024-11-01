@@ -1495,7 +1495,7 @@ Closes the active new pane
 **Default bindings:**
 
 ```json
-"Ctrl+Shift+W"
+"Ctrl+Alt+W"
 ```
 
 
