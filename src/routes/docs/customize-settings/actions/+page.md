@@ -1526,6 +1526,32 @@ Switches focus to the non active pane
 ```
 
 
+### Focus left pane
+
+Switches focus to the left pane
+
+**Action name:** `FocusLeftPane`
+
+**Default bindings:**
+
+```json
+"Ctrl+Shift+Left"
+```
+
+
+### Focus right pane
+
+Switches focus to the right pane
+
+**Action name:** `FocusRightPane`
+
+**Default bindings:**
+
+```json
+"Ctrl+Shift+Right"
+```
+
+
 ## Play
 
 ### Play media files
