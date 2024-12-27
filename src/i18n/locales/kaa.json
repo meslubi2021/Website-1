@@ -35,7 +35,7 @@
 			},
 			"preview": {
 				"title": "Kórip shıǵıw paneli",
-				"description": "Preview photos, videos, and documents without opening them."
+				"description": "Súwretler, videolar hám hújjetlerdi ashpastan kóriń."
 			},
 			"popup-preview": {
 				"title": "QuickLook hám SeerPro-nı qollap-quwatlaw",
@@ -72,6 +72,10 @@
 			"command-palette": {
 				"title": "Buyrıqlar palitrası",
 				"description": "Buyrıqlar palitrasınan buyrıqlar, funksiyalar hám sazlawlarǵa tez kiriń."
+			},
+			"remap-key-bindings": {
+				"title": "Remap key bindings",
+				"description": "Streamline you workflow by creating custom key bindings."
 			}
 		},
 		"themes": {
@@ -93,17 +97,17 @@
 		"share": {
 			"default": "Jergilikli jalǵawıshı",
 			"url": "Siltemeni nusqalaw",
-			"tweet": "Twitter",
+			"tweet": "X",
 			"facebook": "Facebook",
 			"rss": "RSS lentası"
 		}
 	},
 	"docs": {
 		"autocomplete_empty": "Nátiyjeler tabılmadı",
-		"edit_page": "Bul betke ózgeris kirgiziw"
+		"edit_page": "Bul betke ózgeris kirgiziw",
+		"search_docs": "Search Documentation"
 	},
 	"footer": {
-		"copyright": "Barlıq huqıqlar qorǵalǵan © 2021 - {year}, {FilesName} Avtorları",
 		"home": "Bas bet",
 		"docs": "Hújjetshilik",
 		"news": "Jańalıqlar",
@@ -112,13 +116,9 @@
 		"feedback": "Qayta baylanıs",
 		"style_guide": "Kod jazıw boyınsha qollanba",
 		"translations": "Awdarmalar",
-		"contribute_site": "Bul sayttıń rawajlanıwına úles qosıw",
-		"github": "Githubdaǵı baza",
-		"report_bug": "Qátelik tawdıńızba?",
 		"web_team": "Topar"
 	},
 	"navbar": {
-		"ukraine": "Ukraina qollap - quwatladı",
 		"home": "Bas bet",
 		"docs": "Hújjetshilik",
 		"news": "Jańalıqlar",
