@@ -6,7 +6,7 @@ title: App updates and environments
 
 ### How updates work
 
-Files has multiple download options with each option having a unique package identity, this allows users to have different versions installed side by side. In order to enable auto updates for the sideload versions, we make use of the `packageManagement` capability. This capability is removed from the store build in order to prevent certification issues.
+Files has multiple download options, with each option having a unique package identity. This allows users to have different versions installed side-by-side. In order to enable auto updates for the sideload versions, we make use of the `packageManagement` capability. This capability is removed from the store build in order to prevent certification issues.
 
 ## Dev
 
